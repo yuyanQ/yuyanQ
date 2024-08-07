@@ -30,6 +30,10 @@ You can click the Preview link to take a look at your changes.
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyanQ)](https://github.com/anuraghazra/github-readme-stats)
