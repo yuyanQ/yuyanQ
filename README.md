@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Yuyan 👀 
 - 🎙️ Speech and 🧠 knowledge
 
-<!---
-yuyanQ/yuyanQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ## 💻 Some Programming Languages & Libraries
 
@@ -35,7 +31,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
   
 </p>
-
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyanQ)](https://github.com/anuraghazra/github-readme-stats)
-
+--->
 
