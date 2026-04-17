@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Yuyan 👀 
-- 🎙️ Speech and 🧠 knowledge
 
-
-## 💻 Some Programming Languages & Libraries
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
